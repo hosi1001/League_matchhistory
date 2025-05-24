@@ -1,3 +1,5 @@
+Riot APIで遊んでみたかったので、作ってみた謎スクリプト
+直近10試合のマッチヒストリーを表示してくれるPython Script
 ```
 python .\status.py
 Riot ID (name): hosi1001
